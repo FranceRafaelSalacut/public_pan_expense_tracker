@@ -1,1 +1,0 @@
-import{G as e}from"../chunks/BXhQXJYZ.js";import{c as t}from"../chunks/D3YuFrZn.js";import{r as n,t as r}from"../chunks/CrLO3zRd.js";import{t as i}from"../chunks/CiOwe7ng.js";var a=e({load:()=>o}),o=async({parent:e})=>{let{user:a}=await e();a&&i(308,t(r)),i(303,t(n))};export{a as universal};
