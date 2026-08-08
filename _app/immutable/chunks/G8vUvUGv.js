@@ -1,0 +1,1 @@
+function e(e){return!e||e===``?`/`:(e.endsWith(`/`)&&e.length>1?e.slice(0,-1):e)||`/`}function t(t,n){let r=e(t),i=e(n);return r===i||r.startsWith(`${i}/`)}var n=`/p/login`,r=`/u/welcome`;function i(e){return t(e,`/p`)}export{i as n,n as r,r as t};
